@@ -1,0 +1,9 @@
+.classpath
+.project
+.settings
+.errai
+target
+src/main/gwt-unitCache/
+src/main/webapp/images/*.xcf
+src/main/webapp/app/
+src/main/webapp/WEB-INF
