@@ -4,6 +4,7 @@
 .errai
 target
 src/main/gwt-unitCache/
-src/main/webapp/images/*.xcf
 src/main/webapp/app/
-src/main/webapp/WEB-INF
+src/main/webapp/WEB-INF/classes
+src/main/webapp/WEB-INF/deploy
+src/main/webapp/WEB-INF/lib
